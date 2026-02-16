@@ -2,7 +2,7 @@
 ## AP ECET Complete Subject Guide
 
 ![Status](https://img.shields.io/badge/Subject-Core-brightgreen)
-![Weightage](https://img.shields.io/badge/Weightage-15--20%25-orange)
+![Weightage](https://img.shields.io/badge/Weightage-15--20%(11-marks)25-orange.
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
 ---
